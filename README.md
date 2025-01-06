@@ -6,4 +6,5 @@
 
  // Made and API that takes in two numbers from the user and returns the sum in a sentence
 
-// Person who Peer Reviewed your assignment
+// Person who Peer Reviewed your assignment : Karen Cadavos
+//comments: tested on negative values and works as well!
