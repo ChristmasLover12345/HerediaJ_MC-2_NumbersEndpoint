@@ -1,0 +1,6 @@
+@HerediaJ_MC_2_NumbersEndpoint_HostAddress = http://localhost:5205
+
+GET {{HerediaJ_MC_2_NumbersEndpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
